@@ -1,0 +1,2 @@
+DESC='WhatsApp AI agent for an immigration consultancy — answers visa queries, registers cases and books consultations via Calendly'
+TOPICS=n8n,ai-agent,whatsapp-bot,appointment-booking,calendly,openai,immigration
